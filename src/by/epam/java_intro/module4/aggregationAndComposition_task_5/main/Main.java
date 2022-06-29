@@ -1,5 +1,9 @@
 package by.epam.java_intro.module4.aggregationAndComposition_task_5.main;
 
+/*5. Туристические путевки. Сформировать набор предложений клиенту по выбору туристической путевки 
+различного типа (отдых, экскурсии, лечение, шопинг, круиз и т. д.) для оптимального выбора. Учитывать 
+возможность выбора транспорта, питания и числа дней. Реализовать выбор и сортировку путевок
+*/
 
 import by.epam.java_intro.module4.aggregationAndComposition_task_5.enums.Food;
 import by.epam.java_intro.module4.aggregationAndComposition_task_5.menu.Menu;
